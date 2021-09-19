@@ -36,6 +36,10 @@
 > npm . <sesson_name>
 ```
 
+### # HOW TO SET OWNER NUMBER ?
+
+> Open your bot account and use !setown 6285xxxx to change owner number.
+
 ### # THANKS TO
 
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/@adiwajshing/Baileys%20-%23121011.svg?style=flat-square&logo=npm&color=white"/></a>
